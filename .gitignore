@@ -1,0 +1,30 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment / Conda
+Lib/
+Scripts/
+DLLs/
+conda-meta/
+include/
+libs/
+share/
+etc/
+Library/
+Tools/
+.nonadmin
+
+# Python executables & DLLs
+python.exe
+pythonw.exe
+python*.dll
+*.pdb
+*.dll
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
